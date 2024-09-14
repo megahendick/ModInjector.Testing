@@ -1,0 +1,12 @@
+{
+  "icon": "https://images-ext-1.discordapp.net/external/WUCPtU5BqrR0Bo1owAIsxweKH0dW_G1x9p0n_rJL-FQ/https/cdn.discordapp.com/icons/957268277850144788/b81fe549de192f951eadd477836f6e7c.webp?format=png",
+  "clientName": "Horion Client",
+  "version": "1.21.21, 1.21.22, 1.21.23",
+  "downloadLink": "https://horion.download/bin/Horion.dll",
+  "description": "Horion Client is a hacked client for Minecraft Bedrock Edition. Also known as Horion Continued, it is a fork of the origonal horion source code.",
+  "developers": "floppydolphin57 and others idk",
+  "links": [{ "Name": "Website", "Link": "https://horion.download"}, { "Name": "GitHub", "Link": "https://github.com/HorionContinued"}],
+  "configPath": "RoamingState\Horion",
+  "images": ["https://www.9minecraft.net/wp-content/uploads/2024/05/Horion-Client-MCPE-1.jpg", "https://www.9minecraft.net/wp-content/uploads/2024/05/Horion-Client-MCPE-1.jpg"],
+  "gradient": ["#1989F9", "#2F9FFF"]
+}
