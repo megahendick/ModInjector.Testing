@@ -1,28 +1,20 @@
 [
   {
-    "icon": "https://cdn.xealah.com/horion.png",
+    "icon": "https://cdn.xealah.com/blank.png",
     "type": 1,
-    "clientName": "Horion Client",
-    "version": "1.21.50, 1.21.51",
-    "downloadLink": "https://horion.download/bin/Horion.dll",
-    "description": "Horion Client is a hacked client for Minecraft Bedrock Edition. Also known as Horion Continued, it is a fork of the origonal horion source code.",
-    "developers": "FloppyDolphin57",
+    "clientName": "Primordial",
+    "version": "1.21.7x",
+    "downloadLink": "https://cdn.xealah.com/Primordial.dll",
+    "description": "",
+    "developers": "Harsh Singh, John",
     "links": [
       {
-        "Name": "GitHub",
-        "Link": "https://github.com/horionclient/Horion"
-      },
-      {
-        "Name": "Website",
-        "Link": "https://horion.download/"
+        "Name": "Discord",
+        "Link": "https://discord.gg/yFAQg6upxF"
       }
     ],
-    "configPath": "RoamingState\\Horion",
-    "images": [
-      "https://cdn.xealah.com/horion1.png",
-      "https://cdn.xealah.com/horion2.png",
-      "https://cdn.xealah.com/horion3.png"
-    ],
+    "configPath": "RoamingState\\Primordial",
+    "images": [],
     "gradient": [
       "#1989f9",
       "#2F9fff"
@@ -30,11 +22,79 @@
   },
   {
     "icon": "https://cdn.xealah.com/blank.png",
+    "type": 2,
+    "clientName": "Nitr0",
+    "version": "1.21.9x",
+    "downloadLink": "https://github.com/megahendick/ModInjector.Testing/raw/refs/heads/main/Nitr0.exe",
+    "description": "",
+    "developers": "JavaJar",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/yFAQg6upxF"
+      }
+    ],
+    "configPath": "RoamingState\\Primordial",
+    "images": [],
+    "gradient": [
+      "#1989f9",
+      "#2F9fff"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/flarial.png",
+    "type": 0,
+    "clientName": "Flarial Client",
+    "version": "1.21.7x",
+    "downloadLink": "https://flarialbackup.ashank.tech/dll/latest.dll",
+    "developers": "Bari, Flarial Team",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/flarial"
+      }
+    ],
+    "configPath": "RoamingState\\Flarial",
+    "images": [
+      "https://cdn.xealah.com/flarial1.png",
+      "https://cdn.xealah.com/flarial2.png",
+      "https://cdn.xealah.com/flarial3.png"
+    ],
+    "gradient": [
+      "#ff2727",
+      "#fc5a5a"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 0,
+    "clientName": "OderSo Client",
+    "version": "1.21.7x",
+    "downloadLink": "https://cdn.xealah.com/OderSo.dll",
+    "developers": "marioCST",
+    "links": [
+      {
+        "Name": "Discord",
+        "Link": "https://discord.gg/oderso"
+      }
+    ],
+    "configPath": "RoamingState\\OderSo",
+    "images": [
+      "https://cdn.xealah.com/oderso1.png",
+      "https://cdn.xealah.com/oderso2.png",
+      "https://cdn.xealah.com/oderso3.png"
+    ],
+    "gradient": [
+      "#a22eab",
+      "#4e4f90"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
     "type": 1,
     "clientName": "Solstice Client",
-    "version": "1.21.44, 1.21.43, 1.21.40",
+    "version": "1.21.4x",
     "downloadLink": "https://cdn.xealah.com/Solstice.dll",
-    "description": "A free hacked client, worse alternative to Packet Client.",
     "developers": "VastraKai",
     "links": [
       {
@@ -59,11 +119,10 @@
   },
   {
     "icon": "https://cdn.xealah.com/prax.png",
-    "clientName": "Prax Client",
     "type": 1,
-    "version": "1.21.2",
+    "clientName": "Prax Client",
+    "version": "1.21.2x",
     "downloadLink": "https://cdn.xealah.com/Prax.dll",
-    "description": "A mod with a sleek user interface and can bypass most anti-cheats.",
     "developers": "Flash",
     "links": [
       {
@@ -82,11 +141,10 @@
   },
   {
     "icon": "https://cdn.xealah.com/borion.png",
-    "type": 0,
+    "type": 1,
     "clientName": "Borion Client",
-    "version": "1.21.30, 1.21.31",
+    "version": "1.21.3x",
     "downloadLink": "https://cdn.xealah.com/Borion.dll",
-    "description": "Copy of Horion Client but is similar in features and updates quicker.",
     "developers": "Intop, marioCST, White",
     "links": [
       {
@@ -106,37 +164,11 @@
     ]
   },
   {
-    "icon": "https://cdn.xealah.com/flarial.png",
-    "type": 0,
-    "clientName": "Flarial Client",
-    "version": "1.21.50",
-    "downloadLink": "https://flarialbackup.ashank.tech/dll/latest.dll",
-    "description": "A legit mod with smooth UI animations. Logo made by xealah.",
-    "developers": "Bari, Flarial Team",
-    "links": [
-      {
-        "Name": "Discord",
-        "Link": "https://discord.gg/flarial"
-      }
-    ],
-    "configPath": "RoamingState\\Flarial",
-    "images": [
-      "https://cdn.xealah.com/flarial1.png",
-      "https://cdn.xealah.com/flarial2.png",
-      "https://cdn.xealah.com/flarial3.png"
-    ],
-    "gradient": [
-      "#ff2727",
-      "#fc5a5a"
-    ]
-  },
-  {
     "icon": "https://cdn.xealah.com/latite.png",
     "type": 0,
     "clientName": "Latite Client",
-    "version": "1.21.21, 1.21.22, 1.21.23",
+    "version": "1.21.2x",
     "downloadLink": "https://cdn.xealah.com/Latite.dll",
-    "description": "A mod which prioritizes features and performance made for survival.",
     "developers": "JayRSky",
     "links": [
       {
@@ -157,34 +189,9 @@
   },
   {
     "icon": "https://cdn.xealah.com/blank.png",
-    "type": 0,
-    "clientName": "OderSo Client",
-    "version": "1.21.50",
-    "downloadLink": "https://cdn.xealah.com/OderSo.dll",
-    "description": "An upcoming mod with a variety of features but bad visuals, based on Borion.",
-    "developers": "marioCST",
-    "links": [
-      {
-        "Name": "Discord",
-        "Link": "https://discord.gg/oderso"
-      }
-    ],
-    "configPath": "RoamingState\\OderSo",
-    "images": [
-      "https://cdn.xealah.com/oderso1.png",
-      "https://cdn.xealah.com/oderso2.png",
-      "https://cdn.xealah.com/oderso3.png"
-    ],
-    "gradient": [
-      "#a22eab",
-      "#4e4f90"
-    ]
-  },
-  {
-    "icon": "https://cdn.xealah.com/blank.png",
     "type": 1,
     "clientName": "Apollo Client",
-    "version": "1.21.2",
+    "version": "1.21.2x",
     "downloadLink": "https://cdn.xealah.com/Apollo.dll",
     "description": "A hack client which gives the aesthetics or modern clients like Packet V3.",
     "developers": "Unknown",
@@ -220,6 +227,27 @@
     "gradient": [
       "#bd1cba",
       "#cd58ca"
+    ]
+  },
+  {
+    "icon": "https://cdn.xealah.com/blank.png",
+    "type": 1,
+    "clientName": "Ares Client",
+    "version": "1.21.5x",
+    "downloadLink": "https://cdn.xealah.com/Ares.dll",
+    "description": "A new mod with a few, but essential, features.",
+    "developers": "Unknown",
+    "links": [
+      {
+        "Name": "",
+        "Link": ""
+      }
+    ],
+    "configPath": "RoamingState",
+    "images": [],
+    "gradient": [
+      "#323282",
+      "#323282"
     ]
   }
 ]
